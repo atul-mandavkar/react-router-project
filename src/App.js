@@ -4,6 +4,7 @@ import About from './components/About';
 import Form from './components/Form';
 import Navbar from './components/Navbar';
 import { createBrowserRouter, RouterProvider } from "react-router-dom"; // importing only two items from react-router-dom
+// to install router dom in react project use npm install react-router-dom
 
 function App() {
   // Added router variable contain create browser router function for setting path for routing
